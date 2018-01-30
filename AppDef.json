@@ -1,6 +1,6 @@
 {
   "name": "snap_hls_memcopy",
-  "description": "snap_hls_memcopy application",
+  "description": "",
   "author": "khill",
   "machines": [
     "np8f1",
